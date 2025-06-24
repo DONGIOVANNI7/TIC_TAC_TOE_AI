@@ -4,11 +4,11 @@ An unbeatable tic_tac_toe engine,implemented using ai techniques written in Pyth
 TIC TAC TOE AI WITH MINIMAX AND ALPHA-BETA PRUNING
 
 OVERVIEW:
-This project implements an unbeatable Tic Tac Toe AI using the minimax algorithm with alpha-beta pruning optimization. The game features a clean graphical interface built with Tkinter and follows a modular architecture.
+This project implements an unbeatable Tic Tac Toe AI using the minimax algorithm with alpha-beta pruning optimization. The game features a clean graphical interface built with tkinter and follows a modular architecture.
 
 FEATURES:
 - Unbeatable AI powered by minimax algorithm with alpha-beta pruning
-- Modern GUI with intuitive controls using Tkinter
+- Modern GUI with intuitive controls using tkinter
 - Instant move calculation even at max depth
 - Automatic win/draw detection with game reset
 - New game button for quick restarts
@@ -65,7 +65,7 @@ The AI uses the minimax algorithm with alpha-beta pruning:
 
 DEPENDENCIES:
 - Python 3.6+
-- Tkinter (included with Python standard library)
+- tkinter (included with Python standard library)
 
 LICENSE:
 Free for educational and personal use. Modify and distribute freely.
